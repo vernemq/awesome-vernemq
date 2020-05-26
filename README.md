@@ -27,6 +27,8 @@ VerneMQ is a high-performance, distributed MQTT broker. It scales horizontally a
 
 ## Tools
 
+* [rebar3_template_vernemq](https://github.com/redclawtech/rebar3_template_vernemq) - A [rebar3](https://www.rebar3.org/) template for easier bootstrapping of VerneMQ plugins.
+
 ## Plugins
 
 ## Docker images
